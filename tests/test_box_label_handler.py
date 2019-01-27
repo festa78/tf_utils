@@ -6,9 +6,9 @@ import tensorflow as tf
 
 import project_root
 
-from utils.bbox_handler import (AnchorConverter, compute_iou,
-                                generate_anchor_priors, ltrb_to_xywh,
-                                xywh_to_ltrb)
+from utils.box_label_handler import (AnchorConverter, compute_iou,
+                                     generate_anchor_priors, ltrb_to_xywh,
+                                     xywh_to_ltrb)
 
 
 class Test(tf.test.TestCase):

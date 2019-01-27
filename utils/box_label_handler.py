@@ -1,4 +1,4 @@
-"""Utilities for bounding box handling.
+"""Utilities for bounding box label handling.
 Useful for object detection purpose.
 """
 
