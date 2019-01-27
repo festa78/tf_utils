@@ -13,3 +13,6 @@ tfrecord read/write functions for box label, e.g. object detection.
 * `bbox_handler.py`  
 Utilities for bounding box handling.
 Useful for object detection purpose
+
+* `common_layers.py`  
+Useful common functionals for neural network definitions.
