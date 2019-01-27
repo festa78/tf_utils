@@ -9,3 +9,7 @@ tfrecord read/write functions for dense pixel label, e.g. semantic segmentation.
 
 * `tfrecord_box_label.py`  
 tfrecord read/write functions for box label, e.g. object detection.
+
+* `bbox_handler.py`  
+Utilities for bounding box handling.
+Useful for object detection purpose
