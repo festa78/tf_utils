@@ -20,3 +20,6 @@ Useful for object detection purpose.
 
 * `common_layers.py`  
 Useful common functionals for neural network definitions.
+
+* `data_preprocessor.py`  
+Process tf.data.Dataset to add various pre-processing on the top.
